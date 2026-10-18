@@ -1,8 +1,7 @@
 # games-2023
 
 Small games and sketches written in C++ as hobby projects in 2023, using raylib and openFrameworks
-and built with Visual Studio on Windows. Each folder was a separate repository and keeps its
-original commit history.
+and built with Visual Studio on Windows.
 
 | Folder | What it is | Build notes |
 |---|---|---|
