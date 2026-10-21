@@ -1,5 +1,7 @@
 # games-2023
 
+Finished: hobby projects from 2023, kept as they were. No further changes are planned.
+
 Small games and sketches written in C++ as hobby projects in 2023, using raylib and openFrameworks
 and built with Visual Studio on Windows.
 
