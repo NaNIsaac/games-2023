@@ -348,7 +348,6 @@ void Game::End() {
         // Check if more characters have been pressed on the same frame
         while (key > 0)
         {
-            // NOTE: Only allow keys in range [32..125]
             if ((key >= 32) && (key <= 125) && (letterCount < NAMELEN - 1))
             {
                 name[letterCount] = (char)key;
